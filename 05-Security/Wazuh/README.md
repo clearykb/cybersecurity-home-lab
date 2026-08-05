@@ -1,2 +1,2 @@
 #Wazuh
-This folder contains all work and labs I have done
+This folder contains all work and labs I have done in Wazuh

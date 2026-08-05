@@ -1,2 +1,2 @@
 #Bash
-This folder contains all my work and labs
+This folder contains all my work and labs I have done in Bash
